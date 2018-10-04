@@ -1,0 +1,13 @@
+testQtProject.exe
+yhgr.txt
+ui_source.h
+Makefile.Release
+Makefile.Debug
+Makefile
+.qmake.stash
+sdf.txt
+main.o
+moc_predefs.h
+moc_source.cpp
+moc_source.o
+source.o
